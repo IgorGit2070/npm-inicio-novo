@@ -1,0 +1,20 @@
+{
+  "name": "npm-inicio-2",
+  "version": "2.2.3",
+  "description": "Pacote de teste pra ver se vai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm-inicial"
+  ],
+  "author": "Meu nome",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "next": "^14.2.8"
+  }
+}
